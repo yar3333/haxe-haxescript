@@ -44,3 +44,15 @@ Now you can run your script:
 
 haxescript test.hs
 ```
+
+### Supported classes ###
+
+ * Lib
+ * Math
+ * Sys
+ * FileSystem
+ * File
+ * StringTools
+ * Lambda
+ * Process - see [hant](https://code.google.com/p/hant/) library
+ * CmdOptions - see [hant](https://code.google.com/p/hant/) library
