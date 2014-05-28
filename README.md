@@ -1,5 +1,7 @@
 # haxescript #
 
+This is simple application to run your haxe as script. See [hscript](https://code.google.com/p/hscript/) haxe library for details.
+
 ### On *nix ###
 
 
