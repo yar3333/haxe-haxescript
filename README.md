@@ -35,6 +35,8 @@ Run notepad and create file "test.hs":
 Lib.println("hello world!");
 ```
 
+Now you can run your script:
+
 ```
 #!cmd
 
