@@ -15,7 +15,7 @@ nano test.hs
 >#!/usr/bin/haxescript
 >Lib.println("hello world!");
 
-chmod +ax test.hs
+chmod a+x test.hs
 ./test.hs
 
 ```
