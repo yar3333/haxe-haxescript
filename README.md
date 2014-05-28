@@ -18,16 +18,13 @@ chmod +ax test.hs
 
 ```
 
-
 ### On Windows ###
-
 
 ```
 #!cmd
 
 haxelib install haxescript
 ```
-
 Now manually copy haxescript.cmd to folder in PATH.
 
 Run notepad and create file "test.hs":
@@ -35,10 +32,8 @@ Run notepad and create file "test.hs":
 ```
 #!haxe
 
-Lib.println("hello world!")
+Lib.println("hello world!");
 ```
-;
-
 
 ```
 #!cmd
