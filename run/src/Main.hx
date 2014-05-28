@@ -46,6 +46,7 @@ class Main
 	static function install()
 	{
 		File.saveContent("/usr/bin/haxescript", "#!/bin/sh\nhaxelib run haxescript $@\n");
+		Sys.exit(Sys.command("chmod", [ "a+x", "/usr/bin/haxescript" ]));
 	}
 	
 	static function runScript(scriptFile:String)
