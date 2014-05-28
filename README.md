@@ -28,9 +28,9 @@ chmod +ax test.hs
 haxelib install haxescript
 ```
 
-// now manually copy haxescript.cmd to folder in PATH
+Now manually copy haxescript.cmd to folder in PATH.
 
-// run notepad and create file "test.hs":
+Run notepad and create file "test.hs":
 
 ```
 #!haxe
