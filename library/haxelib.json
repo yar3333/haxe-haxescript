@@ -5,7 +5,7 @@
   "description": "Haxe interpretator based on hscript library.",
   "contributors": ["yar3333"],
   "releasenote": "Upgrade hant.",
-  "version": "0.9.3",
+  "version": "1.0.0",
   "url": "https://bitbucket.org/yar3333/haxescript",
   "dependencies": {
   }
