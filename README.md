@@ -54,5 +54,6 @@ haxescript test.hs
  * File
  * StringTools
  * Lambda
+ * Path - see [hant](https://code.google.com/p/hant/) library
  * Process - see [hant](https://code.google.com/p/hant/) library
  * CmdOptions - see [hant](https://code.google.com/p/hant/) library
