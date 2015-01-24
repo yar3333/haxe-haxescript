@@ -1,7 +1,6 @@
 import hant.CmdOptions;
-import hant.PathTools;
+import hant.Path;
 import hant.Process;
-import haxe.io.Path;
 import neko.Lib;
 import neko.winapi.Registry;
 import Sys;
@@ -106,7 +105,6 @@ class Main
 			interp.variables.set("Process", Process);
 			interp.variables.set("CmdOptions", CmdOptions);
 			interp.variables.set("Path", Path);
-			interp.variables.set("PathTools", PathTools);
 			
 			var exitCode = Std.parseInt(interp.execute(program));
 			
